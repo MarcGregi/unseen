@@ -28,8 +28,6 @@ const Register = ({ onRouteChange }) => {
                 </div>
             </main>
         </article>
-
-       
     );
 }
 
