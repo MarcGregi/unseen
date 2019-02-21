@@ -1,4 +1,5 @@
-## React JS App that uses Facial Detection API 
+## React App that uses facial recognition API to detect faces of images.
+
 
 ### App Snapshot 👇 
 
