@@ -3,8 +3,9 @@
 
 ### App Snapshot 👇 
 
-!["Screenshot of Robofriends Homepage"](https://github.com/MarcGregi/unseen/blob/master/docs/joe-rogan-face.png?raw=true)
-!["Screenshot of Robofriends Search Functionality"](https://github.com/MarcGregi/unseen/blob/master/docs/snowboard.png)
+!["Screenshot of unseen Face Detection on Image"](https://github.com/MarcGregi/unseen/blob/master/docs/joe-rogan-face.png?raw=true)
+!["Screenshot of unseen Face Detection on Abstract Image"](https://github.com/MarcGregi/unseen/blob/master/docs/snowboard.png)
+!["Screenshot of unseen Face Detection Sign In"](https://github.com/MarcGregi/unseen/blob/master/docs/signin.png) 
 
 
 ## Available Scripts
