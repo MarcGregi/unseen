@@ -2,8 +2,8 @@
 
 ### App Snapshot 👇 
 
-!["Screenshot of Robofriends Homepage"](https://github.com/MarcGregi/robofriends-react-app/blob/master/docs/robofriends-home.png)
-!["Screenshot of Robofriends Search Functionality"](https://github.com/MarcGregi/robofriends-react-app/blob/master/docs/robofriends-search.png)
+!["Screenshot of Robofriends Homepage"](https://github.com/MarcGregi/unseen/blob/master/docs/joe-rogan-face.png?raw=true)
+!["Screenshot of Robofriends Search Functionality"](https://github.com/MarcGregi/unseen/blob/master/docs/snowboard.png)
 
 
 ## Available Scripts
