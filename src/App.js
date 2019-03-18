@@ -15,6 +15,7 @@ const app = new Clarifai.App({
   apiKey: '3207756996844a7e9ee8a18e78fd71d6'
 }); 
 
+
 const particlesOptions = {
   particles: {
     number: {
@@ -106,7 +107,6 @@ class App extends Component {
       );
   }
 }
-
 export default App;
 
 
